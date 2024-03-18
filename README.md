@@ -19,3 +19,5 @@ Gebruik de volgende opties
 ![image](https://github.com/DaanBouma/JSF/assets/130249739/948a803a-f498-46e0-8e35-7601ced793b7)
 
 De 2G hoef je niet naar 4G te veranderen maar dat is wel handig omdat je computer anders minder fps krijgt
+![image](https://github.com/DaanBouma/JSF/assets/130249739/a8af0f9a-a9e1-4d3d-8d82-6cee499719df)
+Klik op het plusje en download deze foto hieronder en selecteer deze.
