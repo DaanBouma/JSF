@@ -3,6 +3,8 @@
 
 Download de Zip Bestandje in de Github. Zoek op je computer %appdata% en klik op de .minecraft
 Open de Zip bestandje en sleep de normale map "JSF" in de .minecraft
+https://www.dropbox.com/scl/fi/evip4er3mmsijmvpt8m7c/JSF_ZIP.zip?rlkey=ukjh86f9nrdq9k3jqiylf4pa6&dl=1
+
 
 ## Stap 2
 
