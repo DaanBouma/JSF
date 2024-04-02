@@ -12,7 +12,7 @@ Download Fabric 1.20.1 deze kan je hier downloaden!
 https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.0/fabric-installer-1.0.0.exe
 
 ## Stap 4
-Klik dan precies deze opties aan. In de Directory moet je de path naar de JSF mapje in de .minecraft aanklikken
+Klik dan precies deze opties aan. LET OP: IK HEB HIER PERONGELUK DE DIREECTORY GEZET> HOU HET OP DE DEFAULT!
 ![image](https://github.com/DaanBouma/JSF/assets/130249739/4b911e0a-ee95-4c2a-87f4-66af5d7c416f)
 
 ## Stap 5
